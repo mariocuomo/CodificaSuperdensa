@@ -1,4 +1,4 @@
-# CodificaSuperdensa
+# Codifica Superdensa
 Spiegazione ed esempio pratico di come implementare il protocollo della codifica superdensa utilizzando Microsoft Q# 
 
 <div align="center">
