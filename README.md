@@ -9,5 +9,5 @@ Spiegazione ed esempio pratico di come implementare il protocollo della codifica
 
 
 <div align="center">
-  <img src="https://github.com/mariocuomo/teletrasportoQuantico/blob/main/img/protocollo.jpg" width="600">
+  <img src="https://github.com/mariocuomo/codificaSuperdensa/blob/main/img/protocollo.jpg" width="600">
 </div>
