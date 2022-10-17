@@ -3,7 +3,7 @@ Spiegazione ed esempio pratico di come implementare il protocollo della codifica
 
 <div align="center">
   <b>articolo su medium.com</b><br>
-  <a href="https://medium.com/@mariocuomo/teletrasporto-non-solo-fantascienza-f4663b5a1c3a">link</a>
+  <a href="https://medium.com/@mariocuomo/superdense-coding-due-bit-al-prezzo-di-un-qubit-a341457352d5">link</a>
   <br><br>
 </div>
 
